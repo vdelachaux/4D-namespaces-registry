@@ -7,7 +7,7 @@ The aim is to avoid using an identifier that is already in use, and thus avoid e
 > ⓘ NOTE    
 A namespace ensures that no conflict emerges when a host project uses different components that have classes or functions with identical names.
 
-Before choosing a namespace for your component, we recommend you consult the list below to avoid duplicating names. Once you've defined the name you'd like to use, and to keep it unique, submit it for referencing. To do this, please read the Guidelines for contributions. 
+Before choosing a namespace for your component, we recommend you consult the list below to avoid duplicating names. Once you've defined the name you'd like to use, and to keep it unique, submit it for referencing. To do this, please read the [Guidelines for contributions](contributing.md). 
 
 | Namespace | Component | ![Static Badge](https://img.shields.io/badge/Project%20Dependencies-blue?logo=4d&link=https%3A%2F%2Fdeveloper.4d.com%2Fdocs%2FProject%2Fcomponents%2F%23loading-components) |
 | :-------: | :-------- | :------------------: |
