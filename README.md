@@ -10,11 +10,11 @@ A namespace ensures that no conflict emerges when a host project uses different 
 Before choosing a namespace for your component, we recommend you consult the list below to avoid duplicating names. Once you've defined the name you'd like to use, and to keep it unique, submit it for referencing. To do this, please read the Guidelines for contributions. 
 
 | Namespace | Component | ![Static Badge](https://img.shields.io/badge/Project%20Dependencies-blue?logo=4d&link=https%3A%2F%2Fdeveloper.4d.com%2Fdocs%2FProject%2Fcomponents%2F%23loading-components) |
-| :-------- | :-------- | :------------------: |
-| `pop`       | [4DPop](https://github.com/vdelachaux/4DPop) | Compatible |
-| `rgx`       | [Regex-with-Classes](https://github.com/vdelachaux/Regex-with-Classes) | Compatible |
-| `ui`        | [UI-with-Classes](https://github.com/vdelachaux/UI-with-Classes)
-| `color`     | [Color-with-Classes](https://github.com/vdelachaux/Color-with-Classes)
+| :-------: | :-------- | :------------------: |
+| `pop`     | [4DPop](https://github.com/vdelachaux/4DPop) | Compatible |
+| `rgx`     | [Regex-with-Classes](https://github.com/vdelachaux/Regex-with-Classes) | Compatible |
+| `ui`      | [UI-with-Classes](https://github.com/vdelachaux/UI-with-Classes)
+| `color`   | [Color-with-Classes](https://github.com/vdelachaux/Color-with-Classes)
 
 ## Contribute
 
