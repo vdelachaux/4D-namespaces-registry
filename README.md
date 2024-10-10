@@ -1,4 +1,4 @@
-# 4D-namespaces-registry
+# 4D Namespaces Registry
 
 This page is a curated list of [namespaces](https://developer.4d.com/docs/Extensions/develop-components#declaring-the-component-namespace) used by published 4D components, both by 4D and by developers.
 
