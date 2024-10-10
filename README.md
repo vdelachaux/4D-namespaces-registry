@@ -11,10 +11,13 @@ Before choosing a namespace for your component, we recommend you consult the lis
 
 | Namespace | Component | ![Static Badge](https://img.shields.io/badge/Project%20Dependencies-blue?logo=4d&link=https%3A%2F%2Fdeveloper.4d.com%2Fdocs%2FProject%2Fcomponents%2F%23loading-components) |
 | :-------: | :-------- | :------------------: |
+| `NetKit`  | [4D NetKit](https://github.com/4d/4D-NetKit)
 | `pop`     | [4DPop](https://github.com/vdelachaux/4DPop) | Compatible |
-| `rgx`     | [Regex-with-Classes](https://github.com/vdelachaux/Regex-with-Classes) | Compatible |
-| `ui`      | [UI-with-Classes](https://github.com/vdelachaux/UI-with-Classes)
-| `color`   | [Color-with-Classes](https://github.com/vdelachaux/Color-with-Classes)
+| `rgx`     | [Regex with Classes](https://github.com/vdelachaux/Regex-with-Classes) | Compatible |
+| `ui`      | [UI with Classes](https://github.com/vdelachaux/UI-with-Classes)
+| `color`   | [Color with Classes](https://github.com/vdelachaux/Color-with-Classes)
+
+
 
 ## Contribute
 
