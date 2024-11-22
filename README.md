@@ -30,17 +30,6 @@ Before selecting a namespace for your component, we highly recommend consulting 
 | `rgx`     | [Regex with Classes](https://github.com/vdelachaux/Regex-with-Classes) | Compatible |
 | `svg`     | [SVG with Classes](https://github.com/vdelachaux/SVG-with-Classes) |
 | `ui`      | [UI with Classes](https://github.com/vdelachaux/UI-with-Classes) |
-| `wok`     | [wok_Krolific](https://shop.protee.org/index.php/download/4dcomponents/ogtools-suite/ogkrolific) |
-| `woc`     | [woc_colours](https://shop.protee.org/index.php/download/4dcomponents/ogtools-suite/ogcolours) |
-| `wog`     | [wog_tools](https://shop.protee.org/index.php/download/4dcomponents/ogtools-suite/ogtools) |
-| `wot`     | [wot_Taguthi](https://shop.protee.org/index.php/download/4dcomponents/ogtools-suite/ogtaguthi) |
-| `wos`     | [wos_SvgWidgets](https://shop.protee.org/index.php/download/4dcomponents/ogtools-suite/ogsvgwidgets) |
-| `wob`     | [wob_Boxes](https://shop.protee.org/index.php/download/4dcomponents/ogtools-suite/ogboxes) |
-| `wod`     | [wod_DevTools](https://shop.protee.org/index.php/download/4dcomponents/ogtools-dev/ogdevtools) |
-| `wom`     | [wom_Make_](https://shop.protee.org/index.php/download/4dcomponents/ogtools-dev/ogmake) |
-| `waz`     | [waz_Wazar]() |
-| `wor`     | [wor_Recursive]() |
-| `wqr`     | [wqr_QuickReport]() |
 
 
 ## How to Contribute
