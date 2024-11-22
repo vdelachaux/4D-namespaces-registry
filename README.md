@@ -28,6 +28,7 @@ Before selecting a namespace for your component, we highly recommend consulting 
 | `popm`    | [4DPop Macros](https://github.com/vdelachaux/4DPop-Macros) | Compatible |
 | `popq`    | [4DPop QuickOpen](https://github.com/vdelachaux/4DPop-QuickOpen) | Compatible |
 | `rgx`     | [Regex with Classes](https://github.com/vdelachaux/Regex-with-Classes) | Compatible |
+| `svg`     | [SVG with Classes](https://github.com/vdelachaux/SVG-with-Classes) |
 | `ui`      | [UI with Classes](https://github.com/vdelachaux/UI-with-Classes) |
 
 
