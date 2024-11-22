@@ -27,7 +27,7 @@ Thank you for helping us improve! 🙏
    ![Edit](./assets/edit.png)
 
 <hr>
-③  **Add Your Namespace**: In the browser editor, follow the guidelines above and add a line to the table with your namespace and the link to the component repository.
+③  **Add Your Namespace**: In the browser editor, follow the guidelines above and add a line to the table with your namespace and the link to the component repository if it's public.
 
    **Example:**
    
