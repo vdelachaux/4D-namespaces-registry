@@ -22,16 +22,16 @@ Before selecting a namespace for your component, we highly recommend consulting 
 | Namespace | Component | ![Static Badge](https://img.shields.io/badge/Project%20Dependencies-blue?logo=4d&link=https%3A%2F%2Fdeveloper.4d.com%2Fdocs%2FProject%2Fcomponents%2F%23loading-components) |
 | :-------: | :-------- | :------------------: |
 | `AIKit` | [4D AIKit](https://github.com/4d/4D-AIKit) | Compatible |
-| `Build4D` | [Build4D](https://github.com/4d-depot/Build4D) |
+| `Build4D` | [Build4D](https://github.com/4d-depot/Build4D) | Compatible |
 | `color`   | [Color with Classes](https://github.com/vdelachaux/Color-with-Classes) |
 | `mcro`    | [4D Macros](https://github.com/4d/4D-Macros) | Compatible |
-| `NetKit`  | [4D NetKit](https://github.com/4d/4D-NetKit) |
+| `NetKit`  | [4D NetKit](https://github.com/4d/4D-NetKit) | Compatible |
 | `pop`     | [4DPop](https://github.com/vdelachaux/4DPop) | Compatible |
 | `popm`    | [4DPop Macros](https://github.com/vdelachaux/4DPop-Macros) | Compatible |
 | `popq`    | [4DPop QuickOpen](https://github.com/vdelachaux/4DPop-QuickOpen) | Compatible |
 | `rgx`     | [Regex with Classes](https://github.com/vdelachaux/Regex-with-Classes) | Compatible |
-| `svg`     | [SVG with Classes](https://github.com/vdelachaux/SVG-with-Classes) |
-| `ui`      | [UI with Classes](https://github.com/vdelachaux/UI-with-Classes) |
+| `svg`     | [SVG with Classes](https://github.com/vdelachaux/SVG-with-Classes) | Compatible |
+| `ui`      | [UI with Classes](https://github.com/vdelachaux/UI-with-Classes) | Compatible |
 
 
 ## How to Contribute
